@@ -1,0 +1,19 @@
+Overview
+	Gusti alfahmi anwar adalah seorang full stack developer yang sedang mencari kerja.
+	saat ini sedang merintis karir ingin ilmunya dapat digunakan di tempat yang tepat.
+	sebagai pencari kerja, website digunakan untuk mempromosikan diri.
+
+Description
+	Membuat website simple yang menyajikan Data diri seperti kartu bisnis. membagikan 
+	data diri, keahlian, project, pengalaman
+
+Target audiance
+	Requiter (HR) dan Perusahaan (Pemilik Perusahaan, Senior FSD).
+
+Scope
+	Membuat website 1 halaman yang menampilkan data diri, keahlian, project, pengalaman
+
+Key Desired Attributes & Emotion
+	Proffesional
+	Teknologi
+	Programmmer

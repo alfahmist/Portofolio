@@ -1,0 +1,26 @@
+Navigation
+	Home
+	About
+	Experience
+	Project
+	Contact
+Introduction	
+	Nama
+	Pekerjaan
+	Tempat Tinggal
+
+	Github
+	Linkedin
+About
+	Summary	
+
+	Skill
+
+Experience
+	liat cv
+Project
+	link project
+Contact
+	
+Footer
+
